@@ -117,10 +117,10 @@
         },
         "main.json": {
             "scale": 1.5,
-            "selectedLayer": 18,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 293.66666666666663,
-                "y": 369.99999999999994
+                "x": 375.66666666666663,
+                "y": 568.6666666666666
             }
         },
         "main.json#mapUtilities": {
@@ -162,6 +162,17 @@
             "scaleInDock": 1
         },
         "map.json#rc3-2021-mullana-utility": {
+            "scaleInDock": 1
+        },
+        "muehle-innen.json": {
+            "scale": 4.210677083333334,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 64.00395819160121,
+                "y": 95.94656441338364
+            }
+        },
+        "muehle-innen.json#muehle": {
             "scaleInDock": 1
         },
         "sdhq2020/klo/sdhq_klo.json": {
@@ -284,9 +295,9 @@
         }
     },
     "frame.defaultDuration": 300,
-    "map.height": 20,
+    "map.height": 6,
     "map.lastUsedFormat": "json",
-    "map.width": 20,
+    "map.width": 5,
     "openFiles": [
     ],
     "project": "mehlverkehr.tiled-project",
