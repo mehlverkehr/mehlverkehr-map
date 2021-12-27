@@ -49,7 +49,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":""
+                 "value":"sdhq\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -80,6 +80,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"mehlverkehr"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -171,51 +176,6 @@
          "y":0
         }, 
         {
-         "draworder":"topdown",
-         "id":14,
-         "name":"infoLayer",
-         "objects":[
-                {
-                 "height":90.8412764193949,
-                 "id":5,
-                 "name":"events",
-                 "properties":[
-                        {
-                         "name":"url",
-                         "type":"string",
-                         "value":"events.html"
-                        }],
-                 "rotation":0,
-                 "type":"website",
-                 "visible":true,
-                 "width":66.9705760464153,
-                 "x":238.707003729797,
-                 "y":390.551181102362
-                }, 
-                {
-                 "height":25.8599254040614,
-                 "id":7,
-                 "name":"backstube2020",
-                 "properties":[
-                        {
-                         "name":"url",
-                         "type":"string",
-                         "value":"backstube2020.html"
-                        }],
-                 "rotation":0,
-                 "type":"website",
-                 "visible":true,
-                 "width":68.2967260671364,
-                 "x":463.489432242022,
-                 "y":391.877331123083
-                }],
-         "opacity":1,
-         "type":"objectgroup",
-         "visible":true,
-         "x":0,
-         "y":0
-        }, 
-        {
          "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7231, 7232, 7233, 0, 0, 0, 0, 0, 0, 0, 7591, 7592, 7593, 0, 0, 0, 0, 7591, 7592, 7593, 7261, 7262, 7263, 0, 0, 0, 0, 0, 0, 0, 7651, 7652, 7653, 0, 0, 0, 0, 0, 0, 0, 7262, 7263, 0, 0, 0, 0, 0, 0, 0, 0, 7651, 7652, 7653, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8401, 8405, 8404, 8405, 8404, 8405, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8415, 8414, 8415, 8414, 8415, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8424, 8425, 8424, 8425, 8424, 8425, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":20,
          "id":11,
@@ -235,6 +195,21 @@
          "name":"mapCopyright",
          "type":"string",
          "value":"https:\/\/creativecommons.org\/publicdomain\/zero\/1.0"
+        }, 
+        {
+         "name":"mapDescription",
+         "type":"string",
+         "value":"Treffpunkt aller, die selbst gute Dinge backen wollen."
+        }, 
+        {
+         "name":"mapLink",
+         "type":"string",
+         "value":"https:\/\/pad.mehlverkehr.grunert.dev"
+        }, 
+        {
+         "name":"mapName",
+         "type":"string",
+         "value":"Mehlverkehr Headquarter"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
