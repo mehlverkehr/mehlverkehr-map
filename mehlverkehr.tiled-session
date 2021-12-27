@@ -119,8 +119,8 @@
             "scale": 1.5,
             "selectedLayer": 18,
             "viewCenter": {
-                "x": 299.66666666666663,
-                "y": 375.99999999999994
+                "x": 299,
+                "y": 375.33333333333337
             }
         },
         "main.json#mapUtilities": {
@@ -196,8 +196,8 @@
             "scale": 0.9508996212121212,
             "selectedLayer": 6,
             "viewCenter": {
-                "x": 527.3953094657173,
-                "y": 495.3204202559379
+                "x": 526.3436737539213,
+                "y": 494.26878454414185
             }
         },
         "sdhq2020/main.json#Anstellgut": {
@@ -282,7 +282,7 @@
             "scaleInDock": 1
         }
     },
-    "frame.defaultDuration": 600,
+    "frame.defaultDuration": 300,
     "map.height": 20,
     "map.lastUsedFormat": "json",
     "map.width": 20,
