@@ -131,7 +131,8 @@
             "scaleInEditor": 1
         },
         "main.json#muehle-rotating": {
-            "scaleInDock": 0.5
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
         },
         "main.json#mv": {
             "scaleInDock": 1,

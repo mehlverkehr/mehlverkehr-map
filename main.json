@@ -2562,16 +2562,6 @@
          "spacing":0,
          "tilecount":100,
          "tileheight":32,
-         "tiles":[
-                {
-                 "id":0,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"https:\/\/creativecommons.org\/publicdomain\/zero\/1.0"
-                        }]
-                }],
          "tilewidth":32
         }, 
         {
@@ -2582,6 +2572,12 @@
          "imagewidth":640,
          "margin":0,
          "name":"muehle-rotating",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"https:\/\/creativecommons.org\/publicdomain\/zero\/1.0"
+                }],
          "spacing":0,
          "tilecount":400,
          "tileheight":32,
@@ -2969,15 +2965,6 @@
                          "tileid":210
                         }],
                  "id":216
-                }, 
-                {
-                 "id":260,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"https:\/\/creativecommons.org\/publicdomain\/zero\/1.0"
-                        }]
                 }],
          "tilewidth":32
         }],
