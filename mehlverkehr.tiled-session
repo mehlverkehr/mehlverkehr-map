@@ -1,0 +1,247 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInEditor": 11
+        },
+        "/home/marco/Workspace/mehlverkehr/sdhq/main.json#brotplakat": {
+            "scaleInDock": 1
+        },
+        "/home/marco/Workspace/mehlverkehr/sdhq/main.json#c3gelb": {
+            "scaleInDock": 1
+        },
+        "/home/marco/Workspace/mehlverkehr/sdhq/main.json#cert_safety": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/home/marco/Workspace/mehlverkehr/sdhq/main.json#cyberanimation": {
+            "scaleInDock": 1
+        },
+        "/home/marco/Workspace/mehlverkehr/sdhq/main.json#doors": {
+            "scaleInDock": 1
+        },
+        "/home/marco/Workspace/mehlverkehr/sdhq/main.json#eigene_sammlung": {
+            "scaleInDock": 1
+        },
+        "/home/marco/Workspace/mehlverkehr/sdhq/main.json#food_and_drinks": {
+            "scaleInDock": 1
+        },
+        "/home/marco/Workspace/mehlverkehr/sdhq/main.json#furniture": {
+            "scaleInDock": 1
+        },
+        "/home/marco/Workspace/mehlverkehr/sdhq/main.json#mapUtilities": {
+            "scaleInDock": 1
+        },
+        "/home/marco/Workspace/mehlverkehr/sdhq/main.json#minideko": {
+            "scaleInDock": 1
+        },
+        "/home/marco/Workspace/mehlverkehr/sdhq/main.json#misc": {
+            "scaleInDock": 1
+        },
+        "/home/marco/Workspace/mehlverkehr/sdhq/main.json#oefen": {
+            "scaleInDock": 1
+        },
+        "/home/marco/Workspace/mehlverkehr/sdhq/main.json#ponys": {
+            "scaleInDock": 1
+        },
+        "/home/marco/Workspace/mehlverkehr/sdhq/main.json#rc3": {
+            "scaleInDock": 1
+        },
+        "/home/marco/Workspace/mehlverkehr/sdhq/main.json#rc3-mullana-colors": {
+            "scaleInDock": 1
+        },
+        "/home/marco/Workspace/mehlverkehr/sdhq/main.json#rc3-mullana-floor-wall": {
+            "scaleInDock": 1
+        },
+        "/home/marco/Workspace/mehlverkehr/sdhq/main.json#rc3-mullana-foyer-angepasst": {
+            "scaleInDock": 1
+        },
+        "/home/marco/Workspace/mehlverkehr/sdhq/main.json#rc3-mullana-functionary": {
+            "scaleInDock": 1
+        },
+        "/home/marco/Workspace/mehlverkehr/sdhq/main.json#rc3-mullana-neon-signs": {
+            "scaleInDock": 1
+        },
+        "/home/marco/Workspace/mehlverkehr/sdhq/main.json#rc3-mullana-objects": {
+            "scaleInDock": 1
+        },
+        "/home/marco/Workspace/mehlverkehr/sdhq/main.json#rc3-mullana-overlay": {
+            "scaleInDock": 1
+        },
+        "/home/marco/Workspace/mehlverkehr/sdhq/main.json#storage": {
+            "scaleInDock": 1
+        },
+        "/home/marco/Workspace/mehlverkehr/sdhq/main.json#text": {
+            "scaleInDock": 1
+        },
+        "/home/marco/Workspace/mehlverkehr/sdhq/main.json#tilesets_deviant_milkian_1": {
+            "scaleInDock": 1
+        },
+        "/home/marco/Workspace/mehlverkehr/sdhq/main.json#worldExit": {
+            "scaleInDock": 1
+        },
+        "/home/marco/Workspace/mehlverkehr/workadventure-xce-map-starter-kit/map.json": {
+            "scale": 0.577125,
+            "selectedLayer": 8,
+            "viewCenter": {
+                "x": 800.5198180636777,
+                "y": 800.5198180636777
+            }
+        },
+        "/home/marco/Workspace/mehlverkehr/workadventure-xce-map-starter-kit/map.json#BaseChip_pipo_rearranged": {
+            "scaleInDock": 1
+        },
+        "/home/marco/Workspace/mehlverkehr/workadventure-xce-map-starter-kit/map.json#mapUtilities": {
+            "scaleInDock": 1
+        },
+        "/home/marco/Workspace/mehlverkehr/workadventure-xce-map-starter-kit/map.json#rc3-2021-mullana-ground": {
+            "scaleInDock": 1
+        },
+        "/home/marco/Workspace/mehlverkehr/workadventure-xce-map-starter-kit/mrc.json#rc3-2021-mullana-background": {
+            "scaleInDock": 1
+        },
+        "/home/marco/Workspace/mehlverkehr/workadventure-xce-map-starter-kit/mrc.json#rc3-2021-mullana-ground": {
+            "scaleInDock": 1
+        },
+        "/home/marco/Workspace/mehlverkehr/workadventure-xce-map-starter-kit/mrc.json#rc3-2021-mullana-utility": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "main.json": {
+            "scale": 1,
+            "selectedLayer": 13,
+            "viewCenter": {
+                "x": 692.5,
+                "y": 298
+            }
+        },
+        "main.json#mv": {
+            "scaleInDock": 1
+        },
+        "main.json#rc3-2021-mullana-background": {
+            "scaleInDock": 1
+        },
+        "main.json#rc3-2021-mullana-ground": {
+            "scaleInDock": 1
+        },
+        "main.json#rc3-2021-mullana-utility": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "map.json#mv": {
+            "scaleInDock": 1
+        },
+        "map.json#rc3-2021-mullana-background": {
+            "scaleInDock": 1
+        },
+        "map.json#rc3-2021-mullana-ground": {
+            "scaleInDock": 1
+        },
+        "map.json#rc3-2021-mullana-utility": {
+            "scaleInDock": 1
+        },
+        "sdhq2020/main.json": {
+            "scale": 0.9508996212121212,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 528.4469451775134,
+                "y": 495.3204202559379
+            }
+        },
+        "sdhq2020/main.json#brotplakat": {
+            "scaleInDock": 1
+        },
+        "sdhq2020/main.json#c3gelb": {
+            "scaleInDock": 1
+        },
+        "sdhq2020/main.json#cert_safety": {
+            "scaleInDock": 1
+        },
+        "sdhq2020/main.json#cyberanimation": {
+            "scaleInDock": 1
+        },
+        "sdhq2020/main.json#doors": {
+            "scaleInDock": 1
+        },
+        "sdhq2020/main.json#eigene_sammlung": {
+            "scaleInDock": 1
+        },
+        "sdhq2020/main.json#food_and_drinks": {
+            "scaleInDock": 1
+        },
+        "sdhq2020/main.json#furniture": {
+            "scaleInDock": 1
+        },
+        "sdhq2020/main.json#mapUtilities": {
+            "scaleInDock": 1
+        },
+        "sdhq2020/main.json#minideko": {
+            "scaleInDock": 1
+        },
+        "sdhq2020/main.json#misc": {
+            "scaleInDock": 1
+        },
+        "sdhq2020/main.json#oefen": {
+            "scaleInDock": 1
+        },
+        "sdhq2020/main.json#ponys": {
+            "scaleInDock": 1
+        },
+        "sdhq2020/main.json#rc3": {
+            "scaleInDock": 1
+        },
+        "sdhq2020/main.json#rc3-mullana-colors": {
+            "scaleInDock": 1
+        },
+        "sdhq2020/main.json#rc3-mullana-floor-wall": {
+            "scaleInDock": 1
+        },
+        "sdhq2020/main.json#rc3-mullana-foyer-angepasst": {
+            "scaleInDock": 1
+        },
+        "sdhq2020/main.json#rc3-mullana-functionary": {
+            "scaleInDock": 1
+        },
+        "sdhq2020/main.json#rc3-mullana-neon-signs": {
+            "scaleInDock": 1
+        },
+        "sdhq2020/main.json#rc3-mullana-objects": {
+            "scaleInDock": 1
+        },
+        "sdhq2020/main.json#rc3-mullana-overlay": {
+            "scaleInDock": 1
+        },
+        "sdhq2020/main.json#storage": {
+            "scaleInDock": 1
+        },
+        "sdhq2020/main.json#text": {
+            "scaleInDock": 1
+        },
+        "sdhq2020/main.json#tilesets_deviant_milkian_1": {
+            "scaleInDock": 1
+        },
+        "sdhq2020/main.json#worldExit": {
+            "scaleInDock": 1
+        }
+    },
+    "map.height": 20,
+    "map.lastUsedFormat": "json",
+    "map.width": 20,
+    "openFiles": [
+    ],
+    "project": "mehlverkehr.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "map.json",
+        "/home/marco/Workspace/mehlverkehr/workadventure-xce-map-starter-kit/mrc.json",
+        "/home/marco/Workspace/mehlverkehr/sdhq/main.json"
+    ],
+    "tileset.embedInMap": true
+}
