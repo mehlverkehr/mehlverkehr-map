@@ -1,0 +1,101 @@
+{
+    "activeFile": "sdhq2020/main.json",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "sdhq2020/main.json": {
+            "scale": 0.8245463709677419,
+            "selectedLayer": 20,
+            "viewCenter": {
+                "x": 528.7755975304115,
+                "y": 496.0303197016934
+            }
+        },
+        "sdhq2020/main.json#Anstellgut": {
+            "scaleInDock": 1
+        },
+        "sdhq2020/main.json#brotplakat": {
+            "scaleInDock": 1
+        },
+        "sdhq2020/main.json#c3gelb": {
+            "scaleInDock": 1
+        },
+        "sdhq2020/main.json#cert_safety": {
+            "scaleInDock": 1
+        },
+        "sdhq2020/main.json#cyberanimation": {
+            "scaleInDock": 1
+        },
+        "sdhq2020/main.json#doors": {
+            "scaleInDock": 1
+        },
+        "sdhq2020/main.json#eigene_sammlung": {
+            "scaleInDock": 1
+        },
+        "sdhq2020/main.json#food_and_drinks": {
+            "scaleInDock": 1
+        },
+        "sdhq2020/main.json#furniture": {
+            "scaleInDock": 1
+        },
+        "sdhq2020/main.json#mapUtilities": {
+            "scaleInDock": 1
+        },
+        "sdhq2020/main.json#minideko": {
+            "scaleInDock": 1
+        },
+        "sdhq2020/main.json#misc": {
+            "scaleInDock": 1
+        },
+        "sdhq2020/main.json#oefen": {
+            "scaleInDock": 1
+        },
+        "sdhq2020/main.json#ponys": {
+            "scaleInDock": 1
+        },
+        "sdhq2020/main.json#rc3": {
+            "scaleInDock": 1
+        },
+        "sdhq2020/main.json#rc3-mullana-colors": {
+            "scaleInDock": 1
+        },
+        "sdhq2020/main.json#rc3-mullana-floor-wall": {
+            "scaleInDock": 1
+        },
+        "sdhq2020/main.json#rc3-mullana-foyer-angepasst": {
+            "scaleInDock": 1
+        },
+        "sdhq2020/main.json#rc3-mullana-functionary": {
+            "scaleInDock": 1
+        },
+        "sdhq2020/main.json#rc3-mullana-neon-signs": {
+            "scaleInDock": 1
+        },
+        "sdhq2020/main.json#rc3-mullana-objects": {
+            "scaleInDock": 1
+        },
+        "sdhq2020/main.json#rc3-mullana-overlay": {
+            "scaleInDock": 1
+        },
+        "sdhq2020/main.json#storage": {
+            "scaleInDock": 1
+        },
+        "sdhq2020/main.json#text": {
+            "scaleInDock": 1
+        },
+        "sdhq2020/main.json#tilesets_deviant_milkian_1": {
+            "scaleInDock": 1
+        },
+        "sdhq2020/main.json#worldExit": {
+            "scaleInDock": 1
+        }
+    },
+    "openFiles": [
+        "sdhq2020/main.json"
+    ],
+    "project": "",
+    "recentFiles": [
+        "sdhq2020/main.json"
+    ],
+    "tileset.embedInMap": true
+}
