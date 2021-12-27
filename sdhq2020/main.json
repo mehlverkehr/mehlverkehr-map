@@ -160,7 +160,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/woc\/main.json"
+                 "value":"world:\/\/lobby\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
