@@ -2546,11 +2546,6 @@
                  "name":"tilesetCopyright",
                  "type":"string",
                  "value":"https:\/\/creativecommons.org\/publicdomain\/zero\/1.0"
-                }, 
-                {
-                 "name":"tilesetCredits",
-                 "type":"string",
-                 "value":"lupe"
                 }],
          "spacing":0,
          "tilecount":100,
