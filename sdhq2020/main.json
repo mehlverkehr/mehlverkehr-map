@@ -51,6 +51,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.ploetzblog.de\/2013\/04\/13\/leserwunsch-daenisches-roggenbrot-rugbrod\/"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -69,6 +74,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"kaffeepause-SdHQ"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -87,6 +97,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.ploetzblog.de\/2020\/09\/19\/roggenkrustenbrot\/"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -105,6 +120,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/rc3.world\/rc3\/assembly\/sdhq\/"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -140,7 +160,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<c3woc>\/main.json}"
+                 "value":"world:\/\/woc\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -402,6 +422,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-floor-wall",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"https:\/\/creativecommons.org\/publicdomain\/zero\/1.0"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -415,6 +441,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-overlay",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"https:\/\/creativecommons.org\/publicdomain\/zero\/1.0"
+                }],
          "spacing":0,
          "tilecount":512,
          "tileheight":32,
@@ -428,6 +460,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"doors",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"https:\/\/creativecommons.org\/publicdomain\/zero\/1.0"
+                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
@@ -441,6 +479,12 @@
          "imagewidth":288,
          "margin":0,
          "name":"mapUtilities",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"https:\/\/creativecommons.org\/publicdomain\/zero\/1.0"
+                }],
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
@@ -464,6 +508,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-neon-signs",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"https:\/\/creativecommons.org\/publicdomain\/zero\/1.0"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -526,6 +576,12 @@
          "imagewidth":160,
          "margin":0,
          "name":"eigene_sammlung",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"https:\/\/creativecommons.org\/publicdomain\/zero\/1.0"
+                }],
          "spacing":0,
          "tilecount":25,
          "tileheight":32,
@@ -539,6 +595,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-colors",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"https:\/\/creativecommons.org\/publicdomain\/zero\/1.0"
+                }],
          "spacing":0,
          "tilecount":128,
          "tileheight":32,
@@ -552,6 +614,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"worldExit",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"https:\/\/creativecommons.org\/publicdomain\/zero\/1.0"
+                }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
@@ -565,6 +633,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"c3gelb",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"https:\/\/creativecommons.org\/publicdomain\/zero\/1.0"
+                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
@@ -578,6 +652,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"cert_safety",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"https:\/\/creativecommons.org\/publicdomain\/zero\/1.0"
+                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
@@ -591,6 +671,12 @@
          "imagewidth":1024,
          "margin":0,
          "name":"rc3-mullana-foyer-angepasst",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"https:\/\/creativecommons.org\/publicdomain\/zero\/1.0"
+                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
@@ -604,6 +690,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"furniture",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"https:\/\/creativecommons.org\/publicdomain\/zero\/1.0"
+                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
@@ -617,6 +709,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"brotplakat",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"https:\/\/creativecommons.org\/publicdomain\/zero\/1.0"
+                }],
          "spacing":0,
          "tilecount":2,
          "tileheight":32,
@@ -630,6 +728,12 @@
          "imagewidth":1056,
          "margin":0,
          "name":"text",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"https:\/\/creativecommons.org\/publicdomain\/zero\/1.0"
+                }],
          "spacing":0,
          "tilecount":1089,
          "tileheight":32,
@@ -668,6 +772,12 @@
          "imagewidth":160,
          "margin":0,
          "name":"cyberanimation",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"https:\/\/creativecommons.org\/publicdomain\/zero\/1.0"
+                }],
          "spacing":0,
          "tilecount":5,
          "tileheight":32,
@@ -722,6 +832,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"food_and_drinks",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"https:\/\/creativecommons.org\/publicdomain\/zero\/1.0"
+                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
@@ -735,6 +851,12 @@
          "imagewidth":224,
          "margin":0,
          "name":"minideko",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"https:\/\/creativecommons.org\/publicdomain\/zero\/1.0"
+                }],
          "spacing":0,
          "tilecount":91,
          "tileheight":32,
@@ -748,6 +870,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"misc",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"https:\/\/creativecommons.org\/publicdomain\/zero\/1.0"
+                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
@@ -778,6 +906,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"tilesets_deviant_milkian_1",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"https:\/\/creativecommons.org\/publicdomain\/zero\/1.0"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -791,6 +925,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-objects",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"https:\/\/creativecommons.org\/publicdomain\/zero\/1.0"
+                }],
          "spacing":0,
          "tilecount":128,
          "tileheight":32,
@@ -804,6 +944,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"storage",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"https:\/\/creativecommons.org\/publicdomain\/zero\/1.0"
+                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
@@ -817,6 +963,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"https:\/\/creativecommons.org\/publicdomain\/zero\/1.0"
+                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
@@ -830,6 +982,12 @@
          "imagewidth":640,
          "margin":0,
          "name":"ponys",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"https:\/\/creativecommons.org\/publicdomain\/zero\/1.0"
+                }],
          "spacing":0,
          "tilecount":240,
          "tileheight":32,
@@ -843,6 +1001,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-functionary",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"https:\/\/creativecommons.org\/publicdomain\/zero\/1.0"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -856,6 +1020,12 @@
          "imagewidth":96,
          "margin":0,
          "name":"oefen",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"https:\/\/creativecommons.org\/publicdomain\/zero\/1.0"
+                }],
          "spacing":0,
          "tilecount":6,
          "tileheight":32,
