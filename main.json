@@ -2805,13 +2805,7 @@
                          "duration":600,
                          "tileid":187
                         }],
-                 "id":193,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"https:\/\/creativecommons.org\/publicdomain\/zero\/1.0"
-                        }]
+                 "id":193
                 }, 
                 {
                  "animation":[
@@ -2980,6 +2974,15 @@
                          "tileid":210
                         }],
                  "id":216
+                }, 
+                {
+                 "id":260,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"https:\/\/creativecommons.org\/publicdomain\/zero\/1.0"
+                        }]
                 }],
          "tilewidth":32
         }],
