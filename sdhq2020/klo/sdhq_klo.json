@@ -71,11 +71,6 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
-                 "type":"string",
-                 "value":"..\/main.json#eingangBad"
-                }, 
-                {
                  "name":"exitUrl",
                  "type":"string",
                  "value":"..\/main.json#eingangBad"
