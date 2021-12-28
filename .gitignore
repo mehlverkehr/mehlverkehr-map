@@ -1,1 +1,4 @@
 node_modules
+
+*.tiled-session
+*.tiled-project
