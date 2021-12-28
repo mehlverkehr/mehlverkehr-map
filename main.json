@@ -3121,6 +3121,12 @@
          "imagewidth":1056,
          "margin":0,
          "name":"events",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"https:\/\/creativecommons.org\/publicdomain\/zero\/1.0"
+                }],
          "spacing":0,
          "tilecount":1089,
          "tileheight":32,
